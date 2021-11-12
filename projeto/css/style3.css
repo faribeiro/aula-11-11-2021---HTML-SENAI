@@ -1,0 +1,29 @@
+main{
+    margin: 0px;
+}
+#preto{
+    background-color: #000;
+    position: relative;
+    margin-left: none;
+    width: 1912px;
+    height: 150px;
+}
+#azul{
+    background-color: #00ff;
+    position: relative;
+    margin-right: 50px;
+    width: 1912px;
+    height: 750px;
+}
+#branco{
+    background-color: #fff;
+    position: absolute;
+    margin-bottom: 50PX;
+    width: 200px;
+    height: 60px;
+}
+#texto1{
+    color: honeydew;
+    font-size: 50px;
+    text-align: center;
+}
